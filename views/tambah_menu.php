@@ -14,7 +14,7 @@ $kategori = $model->getAllKategori();
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Tambah Menu</title>
+    <title>Tambahkan Menu</title>
     <style>
         body {
             font-family: Arial;
@@ -25,7 +25,7 @@ $kategori = $model->getAllKategori();
             text-align: center;
             margin-bottom: 25px;
         }
-        
+
         .form-container {
             background: white;
             width: 500px;
