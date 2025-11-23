@@ -25,6 +25,7 @@ $kategori = $model->getAllKategori();
             text-align: center;
             margin-bottom: 25px;
         }
+        
         .form-container {
             background: white;
             width: 500px;
